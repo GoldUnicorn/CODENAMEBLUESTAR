@@ -23,4 +23,41 @@ I ask people so what kind of data would like to manage
 
 ## So ......
 
-## Hence the star of project Blue Star. ("the first shit that popped into my head")
+## Hence the start of project Blue Star. ("the first shit that popped into my head")
+
+## The Plan - Big problem up into smaller ones
+
+### DDB - Data Data Base
+
+- Structure
+- Views
+- Indexing
+
+### UI - Let the Users use it
+
+- Forms for view
+
+### Reports - Make millions of line of text data into something pretty. Visualise what is going on.
+
+- Questions 
+- Audenience
+- Print
+- Web
+
+### Api(s) - Connect to other sources, push and pull data  
+
+- Currency
+- Reservasions
+- Csv
+- logs
+- json
+
+### Servers - Docker Containers
+
+- Postgresql Database
+- Pgadmin4 Database Admin
+- Java Application Server 
+- Superset Reporting
+- Wordpress
+- LogStash
+- SahiPro task runner
