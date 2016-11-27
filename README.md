@@ -1,6 +1,10 @@
 # Blue Star
 
-### Currently very to be defined "#$%&!!!"
+## Mission
+
+### To collect data though automated feeds, make simple to edit, visable though reporting. 
+
+## Status: Currently very undefined "#$%&!!!"
 
 Blue star is a project to solve the problem of chaos within our company and others.
 
@@ -33,6 +37,11 @@ I ask people so what kind of data would like to manage
 - Views
 - Indexing
 
+### Fairyfloss
+
+- Application server to manage data from ddb to UI
+- it all sparkles too
+
 ### UI - Let the Users use it
 
 - Forms for view
@@ -56,7 +65,7 @@ I ask people so what kind of data would like to manage
 
 - Postgresql Database
 - Pgadmin4 Database Admin
-- Java Application Server 
+- Java Application Server (Tomacat 8.5 and Fairyfloss app)
 - Superset Reporting
 - Wordpress
 - LogStash
