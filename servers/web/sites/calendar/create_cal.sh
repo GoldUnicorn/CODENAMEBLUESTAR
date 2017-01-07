@@ -2,7 +2,7 @@
 # Calendar website
 
 data_volume_name="cal"
-container_image_name="dataplanet/webblock:0.3"
+container_image_name="cal"
 http_port="50180:80"
 ssh_port="50122:22"
 
